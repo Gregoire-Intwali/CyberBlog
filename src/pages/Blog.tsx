@@ -92,7 +92,7 @@ const Blog = () => {
             <div className="rounded-lg border border-border bg-card p-5">
               <h3 className="font-mono text-sm text-primary mb-4">Recent</h3>
               <div className="space-y-3">
-                {blogPosts.slice(0, 4).map((p) => (
+                {blogPosts.slice(5, 9).map((p) => (
                   <a
                     key={p.id}
                     href={`/blog/${p.id}`}
