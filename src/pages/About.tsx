@@ -150,8 +150,8 @@ const About = () => (
       {/* CV Downloaden */}
       <motion.div {...fade} className="text-center">
         <a
-            href="/Gregoire_Intwali_CV.pdf"
-            download="Gregoire_Intwali_CV.pdf"
+            href="/Gregoire_Intwali_CV1.pdf"
+            download="Gregoire_Intwali_CV1.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-md bg-primary text-primary-foreground font-mono text-sm font-semibold hover:opacity-90 transition-opacity glow-border"
