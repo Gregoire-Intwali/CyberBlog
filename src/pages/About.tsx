@@ -52,7 +52,7 @@ const About = () => (
           <h2 className="font-mono text-sm text-primary tracking-widest">// opleiding</h2>
         </div>
         <div className="rounded-lg border border-border bg-card p-6">
-          <h3 className="font-semibold text-foreground">Graduaat Programmeren</h3>
+          <h3 className="font-semibold text-foreground">Programmeren</h3>
           <p className="text-sm text-muted-foreground mt-1">Artesis Plantijn Hogeschool — 2024–2026</p>
         </div>
       </motion.section>
